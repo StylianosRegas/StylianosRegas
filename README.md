@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StylianosRegas
-- 👀 I’m interested in Running, making video games, watching horror movies, socializing
-- 🌱 I’m currently learning C++,C#, and python
+- 👀 I’m interested in Running, making video games, and getting my Computer Science degree
+- 🌱 I’m currently learning C++,C#, python, and GDscript
 - 📫 Reach me through Instagram or email!
 
 <!---
